@@ -22,13 +22,13 @@ body {
 
 @media (max-width: 768px) {
 
-  .description-section { 
+  .header { 
     text-align: center;
   }
 
 }
 
-.centered-main-page__element {
+.main-content {
   display: block;
   width: 500px;
   margin: 0 auto 0;
